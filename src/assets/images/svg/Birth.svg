@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23">
+  <g id="Group_3603" data-name="Group 3603" transform="translate(-300 -337)">
+    <text id="_31" data-name="31" transform="translate(316 353)" fill="#7d7d7d" font-size="8" font-family="NirmalaUI-Bold, Nirmala UI" font-weight="700"><tspan x="-9.203" y="0">31</tspan></text>
+    <g id="_9024239_calendar_plus_light_icon" data-name="9024239_calendar_plus_light_icon" transform="translate(300 337)">
+      <rect id="Rectangle_2070" data-name="Rectangle 2070" width="23" height="23" fill="none"/>
+      <rect id="Rectangle_2071" data-name="Rectangle 2071" width="15" height="15" rx="2" transform="translate(4 4)" fill="none" stroke="#7d7d7d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <line id="Line_137" data-name="Line 137" y2="3" transform="translate(16 2)" fill="none" stroke="#7d7d7d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <line id="Line_138" data-name="Line 138" y2="3" transform="translate(7 2)" fill="none" stroke="#7d7d7d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <line id="Line_139" data-name="Line 139" x2="15" transform="translate(4 8)" fill="none" stroke="#7d7d7d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

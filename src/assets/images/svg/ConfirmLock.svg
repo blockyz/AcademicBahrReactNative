@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.425" height="19.267" viewBox="0 0 16.425 19.267">
+  <g id="Group_3699" data-name="Group 3699" transform="translate(-275.288 -556.9)">
+    <g id="Group_3695" data-name="Group 3695" transform="translate(275.388 557)" opacity="0.9">
+      <g id="Group_134" data-name="Group 134">
+        <g id="Group_133" data-name="Group 133">
+          <path id="Path_316" data-name="Path 316" d="M66.611,7.826H66V4.694a5.108,5.108,0,0,0-10.181,0V7.826h-.608A2.328,2.328,0,0,0,52.8,10.052v6.791a2.328,2.328,0,0,0,2.414,2.226h11.4a2.328,2.328,0,0,0,2.414-2.226V10.052a2.331,2.331,0,0,0-2.414-2.226ZM57.27,4.694a3.654,3.654,0,0,1,7.285,0V7.826H57.27ZM67.578,16.836a.935.935,0,0,1-.966.891h-11.4a.935.935,0,0,1-.966-.891V10.052a.935.935,0,0,1,.966-.891h11.4a.935.935,0,0,1,.966.891v6.784Z" transform="translate(-52.8 -0.006)" fill="#707070" stroke="#707070" stroke-width="0.2"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_3698" data-name="Group 3698" transform="translate(2 -3)">
+      <text id="_" data-name="*" transform="translate(280 576)" fill="#707070" font-size="6" font-family="SymbolMT, Symbol"><tspan x="-3" y="0">*</tspan></text>
+      <text id="_2" data-name="*" transform="translate(283 576)" fill="#707070" font-size="6" font-family="SymbolMT, Symbol"><tspan x="-3" y="0">*</tspan></text>
+      <text id="_3" data-name="*" transform="translate(286 576)" fill="#707070" font-size="6" font-family="SymbolMT, Symbol"><tspan x="-3" y="0">*</tspan></text>
+    </g>
+  </g>
+</svg>
